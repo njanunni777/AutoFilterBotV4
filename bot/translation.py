@@ -38,12 +38,11 @@ For More Details Click Help Button Below..
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-@CrazyBotsz
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> RASHMIKA BOT</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/G9037944937">G9037944937</a></i></b>
+<b>➥ Creator</b> : <b><i><a href="https://t.me/G9037944937">SACHU</a></i></b>
 
 <b>➥ JOIN CHANNEL</b> : <i><a href="https://t.me/cinetheatre">Click Me</a></i>
 """
