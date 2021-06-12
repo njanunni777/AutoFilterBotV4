@@ -47,7 +47,7 @@ For More Details Click Help Button Below..
 <b>➥ JOIN CHANNEL</b> : <i><a href="https://t.me/cinetheatre">Click Me</a></i>
 """
 
-<b>➥ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
+<b>➥ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0</a></i>
 
-<b>➥ JOIN GROUP</b> : <i><a href="https://t.me/cinemuseum2">Click Me</a></i>
+<b>➥ JOIN GROUP</b> : <i><a href="https://t.me/cinemuseum2">@cinemuseum2</a></i>
 """
