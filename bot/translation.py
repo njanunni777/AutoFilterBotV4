@@ -4,22 +4,17 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto Filter Bot....😉
+    START_TEXT = """<b>sorry you can use me {}!!</b>
+<i>😂ONLY WORKS IN @cinemuseum2 😏
 
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
 
 For More Details Click Help Button Below..
 @CrazyBotsz
 </i>"""    
     
     HELP_TEXT = """
-<b><i><u>How To Use Me!?</u></i></b>
+<b><i><u>No one Gonna help You!?</u></i></b>
 
-<i>
--> Add Me To Any Group And Make Me Admin
--> Add Me To Your Desired Channel
-</i>
 
 <b>Bot Commands (Works Only In Groups) :</b>
 
@@ -46,13 +41,14 @@ For More Details Click Help Button Below..
 @CrazyBotsz
 """
     
-    ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
+    ABOUT_TEXT = """<b>➥ Name</b> : <code> RASHMIKA BOT</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/AlbertEinstein_TG">AlbertEinstein_TG</a></i></b>
+<b>➥ Creator</b> : <b><i><a href="https://t.me/G9037944937">G9037944937</a></i></b>
 
-<b>➥ Language</b> : <code>Python3</code>
+<b>➥ JOIN CHANNEL</b> : <i><a href="https://t.me/cinetheatre">Click Me</a></i>
+"""
 
 <b>➥ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
 
-<b>➥ Source Code</b> : <i><a href="https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot">Click Me</a></i>
+<b>➥ JOIN GROUP</b> : <i><a href="https://t.me/cinemuseum2">Click Me</a></i>
 """
